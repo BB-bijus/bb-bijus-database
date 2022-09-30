@@ -277,4 +277,4 @@
         vendidos: '0',
         banner_style: 'blackBanner',
         esgotado: ''
-    },
+    }
